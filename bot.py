@@ -101,4 +101,4 @@ async def announce(ctx):
 
 # --- More features like warnings, raid protection, economy will go here ---
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run MTM3OTIxNjExODQwNDYxNjMzMw.Gg0O1A.NbHLf1fg1Cfc-jWx69_kDN7b4rYxLeZ1t_Ewik
