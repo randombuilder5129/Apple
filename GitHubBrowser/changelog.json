@@ -1,0 +1,38 @@
+{
+  "2.1.0": {
+    "date": "2025-06-12",
+    "changes": [
+      "Added comprehensive maintenance status reporting",
+      "Implemented automatic changelog system",
+      "Enhanced maintenance mode with status and changelog commands",
+      "Added system resource monitoring and error detection",
+      "Implemented command functionality testing",
+      "Added bot uptime and performance metrics",
+      "Enhanced error logging and recent error detection"
+    ]
+  },
+  "2.0.0": {
+    "date": "2025-06-12",
+    "changes": [
+      "Implemented maintenance test mode for unrestricted access",
+      "Added server-wide lockdown capabilities",
+      "Created paginated moderation logs with 10 entries per page",
+      "Enhanced permission bypass system with safety warnings",
+      "Added comprehensive channel locking and unlocking",
+      "Implemented interactive navigation buttons for logs",
+      "Added sequential log numbering across pages"
+    ]
+  },
+  "1.9.0": {
+    "date": "2025-06-10",
+    "changes": [
+      "Complete economy system with jobs and gambling",
+      "Advanced pet system with breeding and evolution",
+      "Comprehensive moderation tools and logging",
+      "Interactive help system with 200+ commands",
+      "Full utility suite with weather, translation, and tools",
+      "Leveling system with XP progression",
+      "Analytics and community features"
+    ]
+  }
+}
